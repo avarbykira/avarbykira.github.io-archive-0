@@ -1,6 +1,6 @@
 ---
-title: Hello Homelab
-date: 2023.05.08
+title: Hello My Blog
+date: 2023-05-08 19:50:35 +0800
 categories: [coding]
 tags: [blog]
 ---
