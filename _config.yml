@@ -20,10 +20,10 @@ timezone: Asia/Shanghai
 
 title: AvarbyKira # the main title
 
-tagline: Age 17. College student. # it will display as the sub-title
+tagline: "College student. Age 17." # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  This is AK's blog.
+  "This is AK's blog. ^^ "
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://avarbykira.github.io"
