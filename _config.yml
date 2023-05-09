@@ -20,7 +20,7 @@ timezone: Asia/Shanghai
 
 title: AvarbyKira # the main title
 
-tagline: Age 17. College student. Female. # it will display as the sub-title
+tagline: Age 17. College student. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   This is AK's blog.
