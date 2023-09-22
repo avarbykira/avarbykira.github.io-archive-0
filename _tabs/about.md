@@ -6,7 +6,7 @@ order: 4
 
 - Projects on [GitHub](https://github.com/avarbykira) Page
 - Everyday life on [Twitter](https://twitter.com/avarbykira)
-- Email: avarbykira@gmail.com
+- Contact me via [Email](mailto:avarbykira@gmail.com)
 - Send me DM: [telegram](https://t.me/avarbykira) 
 
 Current Master student. Life-long learner. Interested in everything. Software developer toward APP-for-all. UI/UX nitpicker. Keen advocate for bridging technology & humanities. Weekly writer.
