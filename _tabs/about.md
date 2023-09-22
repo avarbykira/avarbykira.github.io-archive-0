@@ -4,14 +4,10 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# Tianci Li
-
 - Projects on [GitHub](https://github.com/avarbykira) Page
 - Everyday life on [Twitter](https://twitter.com/avarbykira)
 - Email: avarbykira@gmail.com
 - Send me DM: [telegram](https://t.me/avarbykira) 
-
-## Profile
 
 Current Master student. Life-long learner. Interest in everything. Software developer toward APP-for-all. UI/UX nitpicker. Keen advocate for bridging technology & humanities. Weekly writer.
 

@@ -1,30 +1,24 @@
 ---
-title: Hello World
+title: 我的第一篇博客
 date: 2023-05-08 19:50:35 +0800
 categories: []
 tags: [life]
 ---
 
-Hello and welcome to my personal blog. This is my first post.
+你好，欢迎你点进我的博客。这是这里的第一篇文章。
 
-## About AK: 
+## 关于我
 
-My name is AvarbyKira. You can call me AK.
+我的网名是 AvarbyKira，你可以称呼我为 AK. 如果你对这个名字的由来好奇的话，它来源于一款游戏，和一个人。
 
-AK is a 17 years old student at the University of Sydney.
+关于我的更多信息，请参阅左侧 Tab 最下方的 `About` 板块。
 
-AK enjoys listening to music, especially progressive rock.
+如果你想联系我，左下角可以找到我的邮箱，也可以通过[telegram](https://t.me/avarbykira)直接发私信给我。
 
-AK is learning coding, guitar, and music.
+## 为什么要写博客
 
-AK is native in Chinese. AK can speak English and Chinese.
+我平时习惯在推特上分享生活。但推文有字数限制，有时不能完整地叙述我的思绪流。因此，我会把长文发表在博客上。
 
-## Why AK is starting the blog:
+此外，我希望用博客作为一张「赛博名片」。简历太短，不足以了解一个人的全部，博客能够尽量全面地让你了解我。
 
-AK wants to have a digital garden to share her life with all kinds of people.
-
-AK would post articles about books she recently read.
-
-AK would also share her feelings and research based on a wild range of topics, including psychology and neuron science.
-
-Hope you would like it!
+我希望通过博客认识更多合得来的人。
