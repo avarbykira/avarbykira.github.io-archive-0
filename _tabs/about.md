@@ -9,7 +9,7 @@ order: 4
 - Email: avarbykira@gmail.com
 - Send me DM: [telegram](https://t.me/avarbykira) 
 
-Current Master student. Life-long learner. Interest in everything. Software developer toward APP-for-all. UI/UX nitpicker. Keen advocate for bridging technology & humanities. Weekly writer.
+Current Master student. Life-long learner. Interested in everything. Software developer toward APP-for-all. UI/UX nitpicker. Keen advocate for bridging technology & humanities. Weekly writer.
 
 "We're here to put a dent in the universe. Otherwise why else even be here?" 🍎
 
