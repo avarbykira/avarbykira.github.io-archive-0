@@ -1,7 +1,7 @@
 ---
 title: 我的第一篇博客
 date: 2023-05-08 19:50:35 +0800
-categories: []
+categories: [杂文]
 tags: [life]
 ---
 
