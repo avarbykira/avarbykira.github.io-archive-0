@@ -1,8 +1,8 @@
 ---
 title: Ideas for PP1 Toolkit
 date: 2023-10-04 15:12:00 +1000
-categories: 
-tags: 
+categories: [杂文]
+tags: [life,education]
 ---
 
 ## 1. Interactive Visualization Tool: ImplicaTree
